@@ -1,0 +1,17 @@
+* Einrichten der Entwicklungsumgebung
+	* Eclipse herunterladen und installieren
+		* http://www.eclipse.org/downloads/
+	* Android SDK herunterladen und installieren
+		* http://developer.android.com/sdk/index.html
+	* ADT-Plugin in Eclipse installieren
+		* http://developer.android.com/sdk/eclipse-adt.html#installing
+	* Eclipse neu starten
+	* Android-SDK Pfad in Eclipse setzen
+		* Window -> Preferences -> Android -> SDK Location
+		* Apply
+		* OK
+* Importieren des Projekts
+	* File -> Import -> General -> Existing Projects into Workspace
+	* Pfad auswählen
+	* Projekt auswählen
+	* Finish
